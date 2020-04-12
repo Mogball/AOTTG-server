@@ -4,7 +4,7 @@ Unzip `PhotonServerV3.rar`. Folders `_xp` are for Windows XP.
 
 For 64-bit Windows 10, use `bin_Win64`.
 
-Run `PhotoControl.exe`. Max players is 20, or get a license from `dashboard.photonengine.com` for 100.
+Run `PhotonControl.exe`. Max players is 20, or get a license from `dashboard.photonengine.com` for 100.
 
 Port forwarding, same public and local ports:
 1. 5055-5057 (UDP)
